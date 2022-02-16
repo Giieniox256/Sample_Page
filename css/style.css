@@ -19,7 +19,7 @@
   
   /** HEADER **/
   .header {
-    background-image: url("../images/bg.jpeg");
+    background-image: url("../images/bg.jpg"); /**Put your background page here **/
     background-size: cover;
     background-position: center bottom;
   }
